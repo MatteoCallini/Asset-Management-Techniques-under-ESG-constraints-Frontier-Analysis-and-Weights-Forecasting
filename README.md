@@ -27,5 +27,12 @@ efficiency losses, while adaptive, data-driven and moderately flexible approache
 those combining dynamic filtering and selective short exposure, can align sustainability
 with robust portfolio behavior.
 
+# Project Materials
+
+- [Main Code](./Main.m)
+- [Full Thesis](./2025_12_Callini_Tesi.pdf)
+- [Executive Summary](./2025_12_Callini_ExecutiveSummary.pdf)
+- [Presentation](./2025_12_Callini_Presentation.pptx)
+
 # Keywords
 ESG, Sustainable Finance, Portfolio Optimization, Efficient Frontier, Short-Selling, Kalman Filter, Linear Constraints.
